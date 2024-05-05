@@ -1,6 +1,6 @@
 # Khaffy App Company - Perfume Store Survey Analysis
 ## Dashboard
-![Khaffy App Dashboard](https://files.oaiusercontent.com/file-fZoJKBZJJT5AAStq1oz6IuHS?se=2024-05-05T15%3A03%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3Dimage.png&sig=rxNHvM3aSax13xUyZ2cDXGv/e//u413fFA5qVUTo6oM%3D)
+![Khaffy App Dashboard](https://github.com/Abdoo50/Khaffy-App-Company-Customer-Survey-Analysis/blob/main/Khaffy%20Dashboard.png)
 ## Overview
 
 This project provides a detailed analysis of customer satisfaction surveys from various branches of the Khaffy App Company's perfume stores across Saudi Arabia. Using Power BI and Power Query, the project aims to extract, transform, and load (ETL) customer data to visualize and understand customer preferences and satisfaction levels.
